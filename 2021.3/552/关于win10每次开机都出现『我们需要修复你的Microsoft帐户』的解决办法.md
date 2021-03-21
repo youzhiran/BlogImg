@@ -20,7 +20,7 @@
 
 2.之后可能要求验证手机号或邮箱，按要求验证即可。
 
-[scode type="blue"]点击关闭`双重验证`之后，再次访问https://account.microsoft.com/security可能仍然显示`双重验证`为打开状态，但我们再次点击或点击下方的`高级安全选项`，可以看到`双重验证`已经关闭。
+[scode type="blue"]点击关闭`双重验证`之后，再次访问https://account.microsoft.com/security可能仍然显示`双重验证`为打开状态，但我们再次点击`双重验证`或点击下方的`高级安全选项`，可以看到`双重验证`已经关闭。
 
 ![](https://cdn.jsdelivr.net/gh/youzhiran/BlogImg@main/2021.3/552/image-20210321141224447.png)[/scode]
 
