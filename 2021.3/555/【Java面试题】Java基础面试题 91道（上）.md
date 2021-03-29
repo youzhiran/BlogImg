@@ -42,7 +42,7 @@ PDF文件：https://devyi.lanzous.com/b00of7bve
 
 - Jvm：在倒数第二层 由他可以在（最后一层的）各种平台上运行 Java Virtual Machine是Java虚拟机，Java程序需要运行在虚拟机上，不同的平台有自己的虚拟机，因此Java语言可以实现跨平台。
 
-![](https://cdn.jsdelivr.net/gh/youzhiran/ImgData@master/2021.3/555/1.jpg)
+![](https://cdn.jsdelivr.net/gh/youzhiran/BlogImg@master/2021.3/555/1.jpg)
 
 ### 5. 什么是跨平台性？原理是什么
 

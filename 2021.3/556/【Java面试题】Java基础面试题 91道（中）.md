@@ -515,7 +515,7 @@ public static void swap(int a, int b) {
   a = 20 b = 10 num1 = 10 num2 = 20
 - 解析：
 
-![](https://cdn.jsdelivr.net/gh/youzhiran/ImgData@master/2021.3/556/1.jpg)
+![](https://cdn.jsdelivr.net/gh/youzhiran/BlogImg@master/2021.3/556/1.jpg)
 
 - 在swap方法中，a、b的值进行交换，并不会影响到 num1、num2。因为，a、b中的值，只是从num1、num2 的复制过来的。也就是说，a、b相当于num1、num2 的副本，副本的内容无论怎么修改，都不会影响到原件本身。
 
@@ -540,7 +540,7 @@ public static void change(int[] array) {
   1 0
 - 解析：
 
-![](https://cdn.jsdelivr.net/gh/youzhiran/ImgData@master/2021.3/556/2.jpg)
+![](https://cdn.jsdelivr.net/gh/youzhiran/BlogImg@master/2021.3/556/2.jpg)
 
 - array 被初始化 arr 的拷贝也就是一个对象的引用，也就是说 array 和 arr 指向的时同一个数组对象。 因此，外部对引用对象的改变会反映到所对应的对象上。
 
@@ -574,11 +574,11 @@ public class Test {
 - 解析：
 - 交换之前：
 
-![](https://cdn.jsdelivr.net/gh/youzhiran/ImgData@master/2021.3/556/3.jpg)
+![](https://cdn.jsdelivr.net/gh/youzhiran/BlogImg@master/2021.3/556/3.jpg)
 
 - 交换之前：
 
-![](https://cdn.jsdelivr.net/gh/youzhiran/ImgData@master/2021.3/556/4.jpg)
+![](https://cdn.jsdelivr.net/gh/youzhiran/BlogImg@master/2021.3/556/4.jpg)
 
 - **通过上面两张图可以很清晰的看出**：`方法并没有改变存储在变量 s1 和 s2 中的对象引用。swap方法的参数x和y被初始化为两个对象引用的拷贝，这个方法交换的是这两个拷贝`
 - **总结**
